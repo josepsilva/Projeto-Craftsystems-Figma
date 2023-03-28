@@ -1,0 +1,184 @@
+@media only screen and (min-width: 1300px) {}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+/* For desktop: */
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+
+.principal {
+
+    width: 100%;
+}
+
+.col-3 {
+    background: #FFFFFF;
+}
+
+.col-9 {
+    background: #E5E5E5;
+}
+
+.img {
+    height: 869px;
+    width: 1082px;
+}
+
+.titulop5 {
+    font-family: 'robotoregular';
+    color: #42505C;
+    display: block;
+    margin-left: 89px;
+    margin-top: 170px;
+    height: 167px;
+    width: 366px;
+    font-size: 54px;
+    line-height: 68px;
+}
+
+.paragrafop5 {
+    display: block;
+    font-family: 'robotoregular';
+    margin-left: 90px;
+    width: 283px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #404040;
+    opacity: 0.99;
+    letter-spacing: 0.55px;
+}
+
+hr {
+    display: block;
+    width: 299px;
+    margin-left: 90px;
+    margin-top: 40px;
+    width: 299px;
+    opacity: 0.2;
+    border: 1px dashed #000000;
+}
+
+.new_password {
+    font-family: 'robotoregular';
+    margin-left: 88px;
+    display: block;
+    margin-top: 20px;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    color: #333333;
+}
+
+.input {
+    display: block;
+    margin-top: 45px;
+    margin-left: -85px;
+    width: 300px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #D1D1D1;
+
+}
+
+.connfirm {
+    font-family: 'robotoregular';
+    display: block;
+    margin-left: 89px;
+    margin-top: 13px;
+    font-size: 14px;
+    height: 28px;
+    letter-spacing: 0.25px;
+    color: #333333;
+}
+
+.input2 {
+    display: block;
+    margin-left: -145px;
+    margin-top: 40px;
+    width: 300px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #D1D1D1;
+}
+
+button{
+    font-family: 'robotoregular';
+    display: block;
+    text-align: center;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    line-height: 45px;
+    color: #FFFFFF;
+    width: 301px;
+    height: 48px;
+    margin-left: 90px;
+    margin-top: 30px;
+    background: #4743E0;
+}
+
+.ajudap5{
+    font-family: 'robotoregular';
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 172px;
+    margin-top: 73px;
+    color: #333333;
+    opacity: 0.3;
+}
+
+.suportep5 {
+    font-family: 'robotoregular';
+    font-size: 14px;
+    line-height: 28px;
+    margin-top: 105px;
+    margin-left: 175px;
+    color: #4743E0;
+}

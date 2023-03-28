@@ -1,0 +1,233 @@
+@media only screen and (min-width: 1300px) {
+
+    .row {
+        display: flex;
+        width: 100%;
+    }
+
+    /* For desktop: */
+    .col-1 {
+        width: 8.33%;
+    }
+
+    .col-2 {
+        width: 16.66%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.33%;
+    }
+
+    .col-5 {
+        width: 41.66%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-7 {
+        width: 58.33%;
+    }
+
+    .col-8 {
+        width: 66.66%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.33%;
+    }
+
+    .col-11 {
+        width: 91.66%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+
+
+    .principal {
+
+        width: 100%;
+    }
+
+    .font_dos_titulos {
+
+        font-family: 'robotoregular';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 54px;
+        line-height: 68px;
+        color: #42505C;
+        margin-left: 100px;
+        margin-top: 100px;
+        display: block;
+    }
+
+    .titulos_span {
+        font-family: 'robotoregular';
+        font-size: 14px;
+        line-height: 28px;
+        display: block;
+        margin-left: 105px;
+        margin-top: 27px;
+        color: #404040;
+    }
+
+    hr {
+        width: 299px;
+        margin-top: 51px;
+        margin-left: 105px;
+        opacity: 0.2;
+        border: 1px dashed #000000;
+    }
+
+    .account {
+        font-family: 'robotoregular';
+        font-size: 14px;
+        margin-top: 20px;
+        margin-left: 104px;
+        display: block;
+    }
+
+    .input {
+        font-family: 'robotoregular';
+        display: block;
+        width: 300px;
+        height: 48px;
+        margin-left: 102px;
+        margin-top: 5px;
+        background: #FFFFFF;
+        border: 1px solid #D1D1D1;
+    }
+
+    .input2 {
+        font-family: 'robotoregular';
+        display: block;
+        width: 300px;
+        height: 48px;
+        margin-left: 102px;
+        margin-top: 0px;
+        background: #FFFFFF;
+        border: 1px solid #D1D1D1;
+    }
+
+    .forgot {
+        font-family: 'robotoregular';
+        display: block;
+        margin-left: 104px;
+        margin-top: 10px;
+        color: #4743E0;
+    }
+
+    .quadrado {
+        display: block;
+        margin-left: 104px;
+        margin-top: 40px;
+        width: 24px;
+        height: 24px;
+        left: 93px;
+        top: 643px;
+        background: #FFFFFF;
+        border: 1px solid #D1D1D1;
+    }
+
+    .remember {
+        font-family: 'robotoregular';
+        display: block;
+        margin-top: -25px;
+        margin-left: 145px;
+        font-size: 14px;
+        letter-spacing: 0.25px;
+        color: #333333;
+
+    }
+
+    button {
+        font-family: 'robotoregular';
+        display: block;
+        margin-top: -40px;
+        margin-left: 250px;
+        font-weight: 700;
+        font-size: 14px;
+        width: 102px;
+        height: 48px;
+        border: 0;
+        background: #4743E0;
+        color: #FFFFFF;
+    }
+
+    .dont {
+        font-family: 'robotoregular';
+        display: block;
+        margin-top: 150px;
+        margin-left: 160px;
+        font-size: 14px;
+        line-height: 28px;
+        color: #333333;
+        opacity: 0.3;
+
+    }
+
+    .register {
+        font-family: 'robotoregular';
+        display: block;
+        margin-left: 190px;
+        margin-top: 10px;
+        font-size: 14px;
+        letter-spacing: 0.25px;
+        color: #4743E0;
+    }
+
+    /*segundo*/
+    
+
+
+
+
+
+
+
+    @font-face {
+        font-family: 'robotobold';
+        src: url('font/roboto-bold-webfont.woff2') format('woff2'),
+            url('font/roboto-bold-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+
+
+
+    @font-face {
+        font-family: 'robotomedium';
+        src: url('font/roboto-medium-webfont.woff2') format('woff2'),
+            url('font/roboto-medium-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+
+
+
+    @font-face {
+        font-family: 'robotoregular';
+        src: url('font/roboto-regular-webfont.woff2') format('woff2'),
+            url('font/roboto-regular-webfont.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+}

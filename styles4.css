@@ -1,0 +1,174 @@
+@media only screen and (min-width: 1300px) {}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+/* For desktop: */
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+
+.principal {
+
+    width: 100%;
+}
+
+.col-3 {
+    background: #FFFFFF;
+}
+
+.col-9 {
+    background: #E5E5E5;
+}
+
+.foto7 {
+    display: block;
+    margin-left: 402px;
+    width: 615px;
+    height: 795px;
+
+}
+
+.forgot {
+    display: block;
+    font-family: 'robotoregular';
+    font-size: 54px;
+    line-height: 68px;
+    margin-top: 50px;
+    margin-left: 56px;
+}
+
+.paragrafo {
+    display: block;
+    font-family: 'robotoregular';
+    font-size: 14px;
+    margin-left: 56px;
+    line-height: 28px;
+    color: #404040;
+    opacity: 0.99;
+    height: 104px;
+    width: 260px;
+
+
+
+}
+
+hr {
+    display: block;
+    width: 300px;
+    margin-left: 58px;
+    margin-top: 130px;
+    width: 299px;
+    opacity: 0.2;
+    border: 1px dashed #000000;
+}
+
+.email {
+    font-family: 'robotoregular';
+    font-size: 12px;
+    display: block;
+    margin-left: 58px;
+    margin-top: 40px;
+}
+
+.input_email {
+    font-family: 'robotoregular';
+    font-size: 12px;
+    line-height: 28px;
+    width: 300px;
+    height: 48px;
+    margin-top: 71px;
+    margin-left: -67px;
+    background: #FFFFFF;
+    border: 1px solid #D1D1D1;
+    color: #000000;
+    opacity: 0.4;
+
+}
+
+.segundo_hr {
+    display: block;
+    margin-top: -55px;
+}
+
+button {
+    font-family: 'robotoregular';
+    display: block;
+    text-align: center;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    line-height: 45px;
+    color: #FFFFFF;
+    width: 301px;
+    height: 48px;
+    margin-left: 60px;
+    margin-top: 30px;
+    background: #4743E0;
+
+}
+
+.ajuda {
+    font-family: 'robotoregular';
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 152px;
+    margin-top: 73px;
+    color: #333333;
+    opacity: 0.3;
+}
+
+.suporte {
+    font-family: 'robotoregular';
+    font-size: 14px;
+    line-height: 28px;
+    margin-top: 105px;
+    margin-left: -105px;
+    color: #4743E0;
+}
